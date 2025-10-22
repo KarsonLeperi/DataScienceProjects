@@ -1,2 +1,4 @@
-### Data Science Portfolio
-This is a repository for my Time Series projects as I learn about the topic.
+# Data Science Portfolio
+A list of all publically available data science projects I have worked on.
+
+### Time Series Analysis - Energy Prediction
