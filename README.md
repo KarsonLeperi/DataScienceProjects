@@ -5,7 +5,7 @@ A list of all publically available data science projects I have worked on.
    - **Description:** Learning the basics of time series analysis and predicting 
    - **Technologies Used:** The notebooks uses XGBoost.
    - **Results:** Succesfully predict energy usage and forecast future energy usage
-   - **[HTML](https://karsonleperi.github.io/DataScienceProjects/Time%20series/ts_machineLearning_energy.html)
+   - [HTML Jupyter Notebook](https://karsonleperi.github.io/DataScienceProjects/Time%20series/ts_machineLearning_energy.html)
 
 ### House Price Prediction
 
