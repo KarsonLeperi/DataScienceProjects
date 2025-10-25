@@ -8,9 +8,10 @@ author:
 description:
   A repository for all the data science projects I am working on.
 
-footer-links:
-  linkedin_username: karsontleperi
-  github_username:  KarsonLeperi
+social_links:
+     - title: Minima Theme repository at GitHub
+       icon: github
+       url: "https://github.com/jekyll/minima"
 
 #social_links:
 #  github: KarsonLeperi
