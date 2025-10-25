@@ -3,6 +3,6 @@ show_downloads: true
 theme: jekyll-theme-minimal
 email: karsonleperi@gmail.com
 
-author:
+social_links:
   github: KarsonLeperi
-  linkedin: https://www.linkedin.com/in/karsontleperi/
+  linkedin_username: https://www.linkedin.com/in/karsontleperi/
