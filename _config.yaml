@@ -1,8 +1,15 @@
 title: Karson Leperi
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
-email: karsonleperi@gmail.com
 
-social_links:
-  github: KarsonLeperi
-  linkedin: https://www.linkedin.com/in/karsontleperi/
+author:
+  name: Karson Leperi
+  email: karsonleperi@gmail.com
+description:
+  A repository for all the data science projects I am working on.
+linkedin_username: karsontleperi
+github_username:  KarsonLeperi
+
+#social_links:
+#  github: KarsonLeperi
+#  linkedin: https://www.linkedin.com/in/karsontleperi/
