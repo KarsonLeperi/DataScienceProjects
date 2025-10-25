@@ -18,6 +18,3 @@ A list of all publically available data science projects I have worked on.
 ### Crop Yield
 
 ### Medical Cost Prediction
-
-
-### Quanitative Analysis
