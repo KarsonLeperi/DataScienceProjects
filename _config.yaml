@@ -10,5 +10,5 @@ twitter_username: your_twitter_username
 github_username: your_github_username
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 theme: minima
