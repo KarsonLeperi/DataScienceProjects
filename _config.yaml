@@ -1,15 +1,9 @@
-title: Data Science Projects
+title: Karson Leperi's Projects
 email: karsonleperi@gmail.com
 theme: jekyll-theme-minimal
-
-#description: >- # this means to ignore newlines until "baseurl:"
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your site's footer.
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://example.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: KarsonLeperi
-linkedin_username: karsontleperi
-
-# Build settings
-#markdown: kramdown
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  A repository for the various data science projects I am working on.  
+  <br><br>
+  <a href="https://www.linkedin.com/in/karsontleperi/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
+  <br><br>
+  <a href="https://scholar.google.com/citations?user=p05bBIgAAAAJ&hl=en"> Google Scholar </a>
