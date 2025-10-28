@@ -1,9 +1,9 @@
 title: Karson Leperi's Projects
 #logo: /img/profile_pic.jpeg
-<img src="/img/profile_pic.jpeg" alt="Alt Text" width="200" height="200">
 email: karsonleperi@gmail.com
 theme: jekyll-theme-minimal
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <img src="/img/profile_pic.jpeg" alt="Alt Text" width="200" height="200"><br>
   A repository for the various data science projects I am working on.  
   <br><br>
   <a href="https://www.linkedin.com/in/karsontleperi/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
