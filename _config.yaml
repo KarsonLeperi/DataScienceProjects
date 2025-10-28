@@ -1,5 +1,6 @@
 title: Karson Leperi's Projects
-logo: /img/profile_pic.jpeg
+#logo: /img/profile_pic.jpeg
+<img src="/img/profile_pic.jpeg" alt="Alt Text" width="200" height="200">
 email: karsonleperi@gmail.com
 theme: jekyll-theme-minimal
 description: > # your text below (remove <br> elements if you don't need line breaks)
