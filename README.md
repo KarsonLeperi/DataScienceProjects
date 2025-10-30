@@ -5,7 +5,7 @@ A list of all publically available data science projects I have worked on.
 
 1. [AEP Energy Prediction](https://github.com/KarsonLeperi/DataScienceProjects/tree/main/Time%20series/)
    - **Description:** Learning the basics of time series analysis and predicting 
-   - **Technologies Used:** The notebooks uses XGBoost.
+   - **Technologies Used:** I explore time series data using XGBoost and Facebook Prophet models.
    - **Results:** Succesfully predict energy usage and forecast future energy usage
    - [HTML Jupyter Notebook](https://karsonleperi.github.io/DataScienceProjects/Time%20series/ts_machineLearning_energy.html)
 
